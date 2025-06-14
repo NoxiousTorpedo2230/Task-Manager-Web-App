@@ -36,8 +36,8 @@ A beautiful, responsive task management application built with vanilla JavaScrip
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/taskflow.git
-   cd taskflow
+   git clone https:https://github.com/NoxiousTorpedo2230/Task-Manager-Web-App.git
+   cd Task-Manager-Web-App
    ```
 
 2. **Open in browser**
