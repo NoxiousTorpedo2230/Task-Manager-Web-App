@@ -204,9 +204,6 @@ Edit CSS custom properties in `style.css`:
 - [ ] Subtasks support
 - [ ] Task templates
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
