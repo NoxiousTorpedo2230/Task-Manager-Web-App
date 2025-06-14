@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Moses Stephen Arulraj S**
 - GitHub: [@NoxiousTorpedo2230](https://github.com/NoxiousTorpedo2230)
 - LinkedIn: [Moses Stephen](https://www.linkedin.com/in/moses-stephen-arulraj-s-3480372b1)
 
@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by TaskFlow Team</p>
+  <p>Made with ❤️ by Stephen</p>
   <p>
     <a href="#taskflow---modern-task-manager">Back to Top</a>
   </p>
